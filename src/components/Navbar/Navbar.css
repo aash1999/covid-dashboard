@@ -1,0 +1,5 @@
+.navbarContainer {
+  display:flex;
+  height: 70px; /*<-change it to responsive later */
+  background-color: red;
+}
